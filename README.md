@@ -1,4 +1,4 @@
-# instant-theme-selector
+# instant theme selector
 select your theme instantly for your website 
 
 :paintbrush: :house: :smile:
