@@ -1,0 +1,23 @@
+.BSOD {
+  background-color: blue;
+  color: white;
+  font-family: consolas;
+}
+
+.console1 {
+  background-color: black;
+  color: white;
+  font-family: white;
+}
+
+.console2 {
+  background-color: black;
+  color: lime;
+  font-family: white;
+}
+
+.night {
+  background-color: navy;
+  color: white;
+  font-family: "lato", sans-serif;
+}
